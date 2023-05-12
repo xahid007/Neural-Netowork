@@ -3,4 +3,4 @@ In this section we will see some common activation functions and their python im
 
 
 ### Sigmoid Function
-$\alpha = \frac{1}{1 + e}$
+$\sigma(x) = \frac{1}{1 + \pow(e,-x}$
